@@ -49,3 +49,8 @@ http://localhost:5173
 ## Importante
 
 Los archivos `.env` reales no se incluyen por seguridad. Debes copiarlos desde `.env.example` y llenar tus credenciales.
+
+Evidencia de funcionamiento
+Evidencia de funcionamiento
+<img width="1600" height="804" alt="image" src="https://github.com/user-attachments/assets/6174e655-e379-4767-93d5-cc9969cc64a4" />
+<img width="1600" height="839" alt="image" src="https://github.com/user-attachments/assets/ea2bcdfc-0395-4ffe-8733-073f4ca2d3a3" />
