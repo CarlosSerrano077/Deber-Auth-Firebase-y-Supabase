@@ -1,3 +1,5 @@
+Integrantes: Carlos Simbaña y Carlos Serrano
+
 # Login Fullstack con Firebase y Supabase
 
 Este ZIP contiene dos ejercicios completos para clase:
